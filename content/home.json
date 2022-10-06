@@ -42,6 +42,10 @@
       "type": "page-title",
       "title": "Vitrine7shop sua Loja de Departamentos ",
       "description": "Aqui você encontra o melhores Produtos 100% originais com Garantia e Nota Fiscal."
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
