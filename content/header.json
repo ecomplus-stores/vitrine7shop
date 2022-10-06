@@ -23,7 +23,8 @@
   },
   "categories_list": {
     "featured": [
-      "/automotivos?Automotivos"
+      "/automotivos?Automotivos",
+      "/beleza-e-saude?Beleza e Saúde"
     ],
     "random": 8,
     "full_width": false
