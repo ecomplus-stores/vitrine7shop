@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Aproveite nossas ofertas e promoções descontos de até 50%!",
+    "link": "/promotion",
+    "background": "#08e1f4",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -12,6 +14,9 @@
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Como Comprar"
       }
     ],
     "phone_wpp": true,
@@ -19,11 +24,11 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 8,
     "full_width": false
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
