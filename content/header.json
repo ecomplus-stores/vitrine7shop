@@ -32,8 +32,8 @@
       "/petshop?Pet Shop",
       "/tecnologias?Tecnologias"
     ],
-    "random": 8,
-    "full_width": false
+    "random": 0,
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
