@@ -29,7 +29,8 @@
       "/energia-solar?Energia Solar",
       "/entretenimentos?Entretenimentos",
       "/modas?Modas",
-      "/petshop?Pet Shop"
+      "/petshop?Pet Shop",
+      "/tecnologias?Tecnologias"
     ],
     "random": 8,
     "full_width": false
