@@ -22,7 +22,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/automotivos?Automotivos"
+    ],
     "random": 8,
     "full_width": false
   },
