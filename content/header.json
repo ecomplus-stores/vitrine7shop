@@ -18,7 +18,7 @@
         "title": "Entre ou Cadastre-se"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
