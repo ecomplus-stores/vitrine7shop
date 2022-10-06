@@ -1,7 +1,7 @@
 {
   "domain": "vitrine7shop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#08e1f4",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#000000",
   "icon": "/img/icon.png",
   "store_id": 19012,
   "description": "\nA sua vitrine da on line, com as mais novas tendências do mercado, variedades de produtos em ofertas e promoções, com descontos e frete grátis.",
