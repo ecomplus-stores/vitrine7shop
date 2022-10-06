@@ -25,7 +25,8 @@
     "featured": [
       "/automotivos?Automotivos",
       "/beleza-e-saude?Beleza e Saúde",
-      "/casa-moveis-e-decoracao?Casa, Móveis e Decoração"
+      "/casa-moveis-e-decoracao?Casa, Móveis e Decoração",
+      "/energia-solar?Energia Solar"
     ],
     "random": 8,
     "full_width": false
