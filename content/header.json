@@ -8,11 +8,11 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Como Comprar"
       },
       {
-        "title": "Como Comprar"
+        "title": "Blog",
+        "link": "https://vitrine7shop.com.br/blog"
       },
       {
         "title": "Entre ou Cadastre-se",
@@ -23,10 +23,6 @@
       },
       {
         "title": "Rastreamento"
-      },
-      {
-        "title": "Blog",
-        "link": "https://vitrine7shop.com.br/blog"
       }
     ],
     "phone_wpp": false,
