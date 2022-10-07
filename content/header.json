@@ -17,6 +17,9 @@
       {
         "title": "Entre ou Cadastre-se",
         "link": "https://vitrine7shop.com.br/app/#/account"
+      },
+      {
+        "title": "Meus Pedidos"
       }
     ],
     "phone_wpp": false,
