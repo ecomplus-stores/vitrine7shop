@@ -22,7 +22,8 @@
         "title": "Meus Pedidos"
       },
       {
-        "title": "Rastreamento"
+        "title": "Rastreamento",
+        "link": "https://www.kangu.com.br/rastreio/"
       }
     ],
     "phone_wpp": false,
