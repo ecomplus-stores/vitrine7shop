@@ -20,6 +20,9 @@
       },
       {
         "title": "Meus Pedidos"
+      },
+      {
+        "title": "Rastreamento"
       }
     ],
     "phone_wpp": false,
