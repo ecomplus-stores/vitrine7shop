@@ -4,7 +4,7 @@
   "primary_color": "#08e1f4",
   "theme": {
     "bootswatch": "pulse",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "font_family": "Mukta",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/icon.png",
