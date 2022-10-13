@@ -5,11 +5,13 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele suas Compras em 12X sem juros!"
+    "text": "Parcele suas Compras em 12X sem juros!",
+    "link": "https://vitrine7shop.com.br/pages/formas-de-pagamento"
   },
   "exchange": {
     "show": true,
-    "text": "Troca e Devolução gratuitas!"
+    "text": "Troca e Devolução gratuitas!",
+    "link": "https://vitrine7shop.com.br/pages/trocas"
   },
   "promo": {
     "show": true,
