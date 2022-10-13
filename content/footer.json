@@ -4,9 +4,54 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "https://vitrine7shop.com.br/pages/contato",
+        "text": "Contato"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/entrega",
+        "text": "Condições de Entrega "
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/condicoes-de-comprar",
+        "text": "Condições de Compra"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/faq",
+        "text": "Dúvidas Frequentes"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/formas-de-pagamento",
+        "text": "Formas de Pagamentos"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/privacidade",
+        "text": "Política de Privacidade"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/politica-de-reembolso",
+        "text": "Política de Reembolso"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/programa-fidelidade",
+        "text": "Programa de Fidelidade"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/termos",
+        "text": "Termos de Uso "
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/trocas",
+        "text": "Trocas e Devoluções"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/sobre-nos",
+        "text": "Sobre Nós"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
