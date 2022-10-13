@@ -9,9 +9,54 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Automotivos",
+        "url": "https://vitrine7shop.com.br/automotivos"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/beleza-e-saude",
+        "text": "Beleza e Saúde"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/casa-e-moveis",
+        "text": "Casa e Móveis"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/energia-solar",
+        "text": "Energia Solar"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/entretenimentos",
+        "text": "Entretenimento"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/modas",
+        "text": "Modas"
+      },
+      {
+        "text": "Pet Shop",
+        "url": "https://vitrine7shop.com.br/petshop"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/tecnologias",
+        "text": "Tecnologias  "
+      },
+      {
+        "text": "Conjuntos",
+        "url": "https://vitrine7shop.com.br/conjuntos"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/combos-e-kits",
+        "text": "Combos e Kits"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/ofertas-e-promocoes",
+        "text": "Ofertas e Promoções"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
