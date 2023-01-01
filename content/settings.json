@@ -1,7 +1,7 @@
 {
   "domain": "vitrine7shop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "",
+  "primary_color": "#08e1f4",
   "theme": {
     "bootswatch": "pulse",
     "custom": "_"
