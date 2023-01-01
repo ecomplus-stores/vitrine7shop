@@ -130,6 +130,7 @@
     "mastercard": true,
     "citibank": false,
     "hiper": true,
+    "diners": true,
     "mais": true,
     "pix": true,
     "amex": true,
