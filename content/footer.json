@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Institucional",
     "list": [
       {
@@ -131,6 +131,7 @@
     "citibank": false,
     "hiper": true,
     "mais": true,
+    "pix": true,
     "amex": true,
     "itau": false
   },
