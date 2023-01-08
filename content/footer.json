@@ -128,13 +128,14 @@
     "bradesco": false,
     "santander": false,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
     "hiper": true,
     "diners": true,
     "mais": true,
     "pix": true,
     "amex": true,
-    "itau": false
+    "itau": true
   },
   "credits": ""
 }
