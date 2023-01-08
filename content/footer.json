@@ -135,7 +135,7 @@
     "mais": true,
     "pix": true,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
