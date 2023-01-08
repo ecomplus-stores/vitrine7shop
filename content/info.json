@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entrega garantida para todo o Brasil!"
+    "text": "Entrega garantida para todo o Brasil!",
+    "link": "https://vitrine7shop.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
