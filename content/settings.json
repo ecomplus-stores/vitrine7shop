@@ -7,19 +7,19 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/vitrine7shop_logo-.webp",
   "name": "Vitrine7shop",
   "short_name": "Vitrine7shop ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Mukta",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/vitrine7shop_favicon.webp",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/vitrine7shop_icon.webp",
   "store_id": 19012,
   "description": "\nA sua vitrine da on line, com as mais novas tendências do mercado, variedades de produtos em ofertas e promoções, com descontos e frete grátis.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/vitrine7shop_large-icon.webp"
 }
