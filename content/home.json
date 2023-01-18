@@ -17,6 +17,34 @@
       "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-beleza-e-saude.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-brinquedos.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-energia-solar.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-tecnologias.webp"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2023-01-17T00:31:53.734Z",
