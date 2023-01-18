@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2023-01-17T00:31:53.734Z",
