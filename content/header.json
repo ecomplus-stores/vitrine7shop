@@ -8,7 +8,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Como Comprar"
+        "title": "Como Comprar",
+        "link": "https://vitrine7shop.com.br/pages/condicoes-de-comprar"
       },
       {
         "title": "Blog",
