@@ -75,7 +75,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp"
+      "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp",
+      "link": "https://vitrine7shop.com.br/entretenimentos"
     },
     {
       "type": "responsive-banner",
