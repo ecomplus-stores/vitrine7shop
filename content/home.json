@@ -104,12 +104,8 @@
       "title": "As Melhores Ofertas"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
-    },
-    {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": []
     },
     {
       "type": "collection-shelf",
@@ -121,9 +117,10 @@
       "sort": "sales"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "autoplay": 0
     },
     {
       "type": "collection-shelf",
@@ -134,12 +131,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 0
     },
     {
       "type": "page-title",
