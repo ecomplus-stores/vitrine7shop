@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/vitrine7shop_banner-informativo-descontos.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/vitrine7shop_banner-silder-informativo-descontos.webp"
         },
         {
@@ -36,6 +41,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/vitrine7shop_banner-silder-descontos.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_banner-silder-informativo.webp"
         }
       ]
     },
