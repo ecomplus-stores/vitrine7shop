@@ -50,7 +50,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp"
+      "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp",
+      "link": "https://vitrine7shop.com.br/automotivos"
     },
     {
       "type": "responsive-banner",
