@@ -80,7 +80,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp"
+      "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp",
+      "link": "https://vitrine7shop.com.br/modas"
     },
     {
       "type": "responsive-banner",
