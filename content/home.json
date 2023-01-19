@@ -49,44 +49,41 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp",
-      "link": "https://vitrine7shop.com.br/automotivos"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-beleza-e-saude.webp",
-      "link": "https://vitrine7shop.com.br/beleza-e-saude"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-brinquedos.webp",
-      "link": "https://vitrine7shop.com.br/brinquedos-e-hobbies"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp",
-      "link": "https://vitrine7shop.com.br/casa-e-moveis"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-energia-solar.webp",
-      "link": "https://vitrine7shop.com.br/energia-solar"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp",
-      "link": "https://vitrine7shop.com.br/entretenimentos"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp",
-      "link": "https://vitrine7shop.com.br/modas"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-menu-tecnologias.webp",
-      "link": "https://vitrine7shop.com.br/tecnologias"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "link": "https://vitrine7shop.com.br/automotivos",
+          "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-beleza-e-saude.webp",
+          "link": "https://vitrine7shop.com.br/beleza-e-saude"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-brinquedos.webp",
+          "link": "https://vitrine7shop.com.br/brinquedos-e-hobbies"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp",
+          "link": "https://vitrine7shop.com.br/casa-e-moveis"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-energia-solar.webp",
+          "link": "https://vitrine7shop.com.br/casa-e-moveis"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp",
+          "link": "https://vitrine7shop.com.br/entretenimentos"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp",
+          "link": "https://vitrine7shop.com.br/modas"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-tecnologias.webp",
+          "link": "https://vitrine7shop.com.br/tecnologias"
+        }
+      ]
     },
     {
       "type": "offers-timer",
