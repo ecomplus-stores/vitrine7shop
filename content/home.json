@@ -166,7 +166,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "title": "Ofertas Especiais para Você",
+      "sort": "offers"
     }
   ]
 }
