@@ -169,6 +169,26 @@
       "page": 1,
       "title": "Ofertas Especiais para Você",
       "sort": "offers"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "lowest_price",
+      "title": "Aproveite Baixou o Preço"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
