@@ -101,6 +101,14 @@
       "title": "As Melhores Ofertas"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Recomendados para Você"
+    },
+    {
       "type": "banners-grid",
       "banners": []
     },
@@ -112,6 +120,14 @@
       "collection_id": null,
       "title": "Produtos mais Vendidos",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Itens que Você visualizou Recentemente",
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
@@ -130,45 +146,17 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Confira novidades do nosso Blog!",
-      "description": ""
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "Produtos mais Buscados"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "Recomendados para Você"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Itens que Você visualizou Recentemente",
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "title": "Ofertas Especiais para Você",
       "sort": "offers"
+    },
+    {
+      "type": "page-title",
+      "title": "Confira novidades do nosso Blog!",
+      "description": ""
     },
     {
       "type": "collection-shelf",
@@ -187,10 +175,8 @@
       "sort": "sales"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
