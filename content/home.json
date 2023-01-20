@@ -153,6 +153,20 @@
       "page": 1,
       "sort": "views",
       "title": "Recomendados para Você"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Itens que Você visualizou",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
