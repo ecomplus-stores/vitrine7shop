@@ -153,6 +153,19 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-brinquedos.webp",
+          "link": "https://vitrine7shop.com.br/img/uploads/vitrine7shop_banner-menu-brinquedos.webp"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp",
+          "link": "https://vitrine7shop.com.br/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp"
+        }
+      ]
     }
   ]
 }
