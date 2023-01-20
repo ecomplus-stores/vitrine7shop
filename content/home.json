@@ -154,11 +154,6 @@
       "sort": "offers"
     },
     {
-      "type": "page-title",
-      "title": "Confira novidades do nosso Blog!",
-      "description": ""
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -173,6 +168,11 @@
       "page": 1,
       "title": "O que os outros Clientes estão Comprando",
       "sort": "sales"
+    },
+    {
+      "type": "page-title",
+      "title": "Confira novidades do nosso Blog!",
+      "description": ""
     },
     {
       "type": "blog",
