@@ -65,25 +65,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-brinquedos.webp",
-          "link": "https://vitrine7shop.com.br/brinquedos-e-hobbies"
-        },
-        {
           "img": "/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp",
           "link": "https://vitrine7shop.com.br/casa-e-moveis"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
+        },
         {
           "img": "/img/uploads/vitrine7shop_banner-menu-energia-solar.webp",
           "link": "https://vitrine7shop.com.br/energia-solar"
-        },
-        {
-          "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp",
-          "link": "https://vitrine7shop.com.br/entretenimentos"
         }
       ]
     },
@@ -91,12 +78,25 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp",
-          "link": "https://vitrine7shop.com.br/modas"
+          "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp",
+          "link": "https://vitrine7shop.com.br/entretenimentos"
         },
         {
+          "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp",
+          "link": "https://vitrine7shop.com.br/modas"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/vitrine7shop_banner-menu-pet-sop.webp",
-          "link": "https://vitrine7shop.com.br/pet-shop"
+          "link": "https://vitrine7shop.com.br/petshop"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_banner-menu-tecnologias.webp",
+          "link": "https://vitrine7shop.com.br/tecnologias"
         }
       ]
     },
