@@ -40,7 +40,8 @@
       "/entretenimentos?Entretenimentos",
       "/modas?Modas",
       "/petshop?Pet Shop",
-      "/tecnologias?Tecnologias"
+      "/tecnologias?Tecnologias",
+      "/petshop?Pet Shop"
     ],
     "random": 0,
     "full_width": true
