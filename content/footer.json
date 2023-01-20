@@ -12,12 +12,16 @@
         "text": "Contato"
       },
       {
-        "url": "https://vitrine7shop.com.br/pages/entrega",
-        "text": "Condições de Entrega "
+        "text": "Como Comprar",
+        "url": "https://vitrine7shop.com.br/pages/como-comprar"
       },
       {
         "url": "https://vitrine7shop.com.br/pages/condicoes-de-comprar",
         "text": "Condições de Compra"
+      },
+      {
+        "url": "https://vitrine7shop.com.br/pages/entrega",
+        "text": "Condições de Entrega "
       },
       {
         "url": "https://vitrine7shop.com.br/pages/faq",
@@ -50,10 +54,6 @@
       {
         "url": "https://vitrine7shop.com.br/pages/sobre-nos",
         "text": "Sobre Nós"
-      },
-      {
-        "text": "Como Comprar",
-        "url": "https://vitrine7shop.com.br/pages/como-comprar"
       }
     ]
   },
