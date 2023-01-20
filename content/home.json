@@ -182,7 +182,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "title": "O que os outros Clientes estão Comprando",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
