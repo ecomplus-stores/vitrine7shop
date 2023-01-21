@@ -32,15 +32,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/automotivos?Automotivos",
-      "/beleza-e-saude?Beleza e Saúde",
-      "/casa-e-moveis?Casa e Móveis",
-      "/energia-solar?Energia Solar",
-      "/entretenimentos?Entretenimentos",
-      "/modas?Modas",
-      "/tecnologias?Tecnologias"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": true
   },
