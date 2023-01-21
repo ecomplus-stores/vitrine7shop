@@ -1,6 +1,6 @@
 {
   "meta_title": "Vitrine7shop | Melhor que vê, é poder comprar, Vem! ",
-  "meta_description": "Vitrine7shop | Sua Loja de Departamentos com a mais nova e completa Vitrine de Produtos da Web, com os melhores Descontos, Ofertas e Promoções, com várias formas de Pagamentos, e com Programa de Fidelidade e Cashback, Entrega rápida, segura e garantida, com diversas formas de Envios promocionais, com Frete Grátis.. ",
+  "meta_description": "Vitrine7shop | Sua Loja de Departamentos com a mais nova e completa Vitrine de Produtos da Web, com os Melhores Descontos, Ofertas e Promoções, com várias Formas de Pagamentos, e com Programa de Fidelidade e Cashback, Entrega Rápida, Segura e Garantida, com diversas Formas de Envios promocionais, com Frete Grátis.. ",
   "sections": [
     {
       "type": "banner-slider",
@@ -188,10 +188,6 @@
       "type": "page-title",
       "title": "Confira novidades do nosso Blog!",
       "description": ""
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
