@@ -1,13 +1,5 @@
 {
-  "sort_categories": [
-    "automotivos",
-    "beleza-e-saude",
-    "casa-e-moveis",
-    "energia-solar",
-    "entretenimentos",
-    "modas",
-    "tecnologias"
-  ],
+  "sort_categories": [],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
