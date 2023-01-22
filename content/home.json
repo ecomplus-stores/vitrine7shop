@@ -113,7 +113,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-cartao-de-credito.webp"
+      "img": "/img/uploads/vitrine7shop_mini-banner-cartao-de-credito.webp",
+      "link": " "
     },
     {
       "type": "collection-shelf",
