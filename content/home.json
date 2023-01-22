@@ -101,6 +101,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-repositivo-energia-solar.webp"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2023-01-17T00:31:53.734Z",
@@ -116,6 +120,10 @@
       "title": "As Melhores Ofertas"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-cartao-de-credito.webp"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -124,8 +132,8 @@
       "title": "Recomendados para Você"
     },
     {
-      "type": "banners-grid",
-      "banners": []
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-repositivo-ml.webp"
     },
     {
       "type": "collection-shelf",
@@ -137,6 +145,10 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-repositivo-google-reviews.webp"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -145,10 +157,8 @@
       "sort": "views"
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 0
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-suporte.webp"
     },
     {
       "type": "collection-shelf",
@@ -161,12 +171,20 @@
       "page": 1
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-informativo-ofertas.webp"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "title": "Ofertas Especiais para Você",
       "sort": "offers"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_banner-ofetas-desconto.webp"
     },
     {
       "type": "collection-shelf",
@@ -183,6 +201,12 @@
       "page": 1,
       "title": "O Que os Outros Clientes estão Comprando",
       "sort": "sales"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "autoplay": 0
     },
     {
       "type": "page-title",
