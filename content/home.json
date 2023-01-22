@@ -105,6 +105,13 @@
       "img": "/img/uploads/vitrine7shop_banner-repositivo-energia-solar.webp"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Aproveite, Nossos Combos e Kits"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/vitrine7shop_mini-banner-cartao-de-credito.webp"
     },
@@ -190,13 +197,6 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/vitrine7shop_mini-banner-suporte.webp"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Aproveite, Nossos Combos e Kits"
     },
     {
       "type": "brands-carousel",
