@@ -109,6 +109,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "title": "Novidades que Chegaram pra Você",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "title": "Aproveite, Nossos Combos e Kits"
     },
     {
