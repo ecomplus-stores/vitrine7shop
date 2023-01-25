@@ -220,6 +220,10 @@
       "type": "page-title",
       "title": "Confira novidades do nosso Blog!",
       "description": ""
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
