@@ -120,16 +120,16 @@
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=vitrine7shop.com.br"
     },
     {
-      "src": "/img/uploads/vitrine7shop_google-site-seguro.webp",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=vitrine7shop.com.br"
+      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=vitrine7shop.com.br ",
+      "src": "/img/uploads/vitrine7shop_lets-encrypt-secured.webp"
     },
     {
       "src": "/img/uploads/vitrine7shop_norton-secured.webp",
       "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fvitrine7shop.com.br%2F "
     },
     {
-      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=vitrine7shop.com.br ",
-      "src": "/img/uploads/vitrine7shop_lets-encrypt-secured.webp"
+      "src": "/img/uploads/vitrine7shop_google-site-seguro.webp",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=vitrine7shop.com.br"
     }
   ],
   "payment_methods": {
