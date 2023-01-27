@@ -130,7 +130,7 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "title": "As Melhores Ofertas"
+      "title": "As Melhores Ofertas, Aproveite!"
     },
     {
       "type": "collection-shelf",
@@ -206,15 +206,24 @@
       "sort": "sales"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_mini-banner-suporte.webp",
-      "link": "https://wa.me/message/F2HZMKG5I33ZH1"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Mais Ofertas para Você, Aproveitar!"
     },
     {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "autoplay": 0
+      "autoplay": 0,
+      "sort": null
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine7shop_mini-banner-suporte.webp",
+      "link": "https://wa.me/message/F2HZMKG5I33ZH1"
     },
     {
       "type": "page-title",
