@@ -95,11 +95,20 @@
       "img": "/img/uploads/vitrine7shop_banner-repositivo-energia-solar.webp"
     },
     {
+      "type": "page-title",
+      "title": "Navegue por Categorias"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "Novidades que Chegaram pra Você",
+      "title": "Novidades que chegaram pra Você",
       "sort": "news"
     },
     {
@@ -120,7 +129,7 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "title": "As Melhores Ofertas, Aproveite!"
+      "title": "As melhores ofertas, Aproveite!"
     },
     {
       "type": "collection-shelf",
@@ -148,7 +157,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "Itens que Você visualizou Recentemente",
+      "title": "Itens que você visualizou Recentemente",
       "sort": "views"
     },
     {
@@ -170,7 +179,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "Ofertas Especiais para Você",
+      "title": "Ofertas especiais para Você",
       "sort": "offers"
     },
     {
@@ -201,7 +210,7 @@
       "limit": 12,
       "page": 1,
       "sort": "offers",
-      "title": "Mais Ofertas para Você, Aproveitar!"
+      "title": "Mais ofertas para Você, Aproveite!"
     },
     {
       "type": "brands-carousel",
