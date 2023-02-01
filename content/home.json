@@ -95,10 +95,6 @@
       "img": "/img/uploads/vitrine7shop_banner-repositivo-energia-solar.webp"
     },
     {
-      "type": "page-title",
-      "title": "                                                     Navegue por Categorias"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false
@@ -201,7 +197,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "O Que os Outros Clientes estão Comprando",
+      "title": "O que os outros Clientes estão Comprando",
       "sort": "sales"
     },
     {
