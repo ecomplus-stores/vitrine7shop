@@ -91,10 +91,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_banner-repositivo-energia-solar.webp"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false
