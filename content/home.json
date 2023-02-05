@@ -91,100 +91,67 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 1000,
-      "full_width": false,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-cuidados-pessoais.webp",
-          "link": "https://vitrine7shop.com.br/beleza-e-cuidado-pessoal"
+          "link": "https://vitrine7shop.com.br/beleza-e-cuidado-pessoal",
+          "img": "/img/uploads/vitrine7shop_categoria-cuidados-pessoais.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-esportes-e-fitness-2-.webp",
-          "link": "https://vitrine7shop.com.br/esportes-e-fitness"
+          "link": "https://vitrine7shop.com.br/esportes-e-fitness",
+          "img": "/img/uploads/vitrine7shop_categoria-esportes-e-fitness-2-.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-saude-e-bem-estar.webp",
-          "link": "https://vitrine7shop.com.br/saude-e-bem-estar"
+          "link": "https://vitrine7shop.com.br/saude-e-bem-estar",
+          "img": "/img/uploads/vitrine7shop_categoria-saude-e-bem-estar.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-casa-moveis-e-decoracao.webp",
-          "link": "https://vitrine7shop.com.br/casa-moveis-e-decoracao"
+          "link": "https://vitrine7shop.com.br/casa-moveis-e-decoracao",
+          "img": "/img/uploads/vitrine7shop_categoria-casa-moveis-e-decoracao.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-escritorio-e-papelaria.webp",
-          "link": "https://vitrine7shop.com.br/escritorio-papelaria"
+          "link": "https://vitrine7shop.com.br/escritorio-papelaria",
+          "img": "/img/uploads/vitrine7shop_categoria-escritorio-e-papelaria.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-binquedos-e-hobbies.webp",
-          "link": "https://vitrine7shop.com.br/brinquedos-e-hobbies"
+          "link": "https://vitrine7shop.com.br/brinquedos-e-hobbies",
+          "img": "/img/uploads/vitrine7shop_categoria-binquedos-e-hobbies.webp"
         },
         {
-          "start": "",
-          "end": "",
           "link": "https://vitrine7shop.com.br/games-e-consoles",
           "img": "/img/uploads/vitrine7shop_categoria-games-e-consoles.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-instrumentos-musicais.webp",
-          "link": "https://vitrine7shop.com.br/instrumentos-musicais"
+          "link": "https://vitrine7shop.com.br/instrumentos-musicais",
+          "img": "/img/uploads/vitrine7shop_categoria-instrumentos-musicais.webp"
         },
         {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/vitrine7shop_categoria-bebe-e-maternidade.webp",
           "link": "https://vitrine7shop.com.br/bebes-e-maternidade"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-calcados-roupas-e-bolsas.webp",
-          "link": "https://vitrine7shop.com.br/calcados-roupas-e-bolsas"
+          "link": "https://vitrine7shop.com.br/calcados-roupas-e-bolsas",
+          "img": "/img/uploads/vitrine7shop_categoria-calcados-roupas-e-bolsas.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-joias-e-relogios.webp",
-          "link": "https://vitrine7shop.com.br/joias-e-relogios"
+          "link": "https://vitrine7shop.com.br/joias-e-relogios",
+          "img": "/img/uploads/vitrine7shop_categoria-joias-e-relogios.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-camera-e-acessorios_.webp",
-          "link": "https://vitrine7shop.com.br/cameras-e-acessorios"
+          "link": "https://vitrine7shop.com.br/cameras-e-acessorios",
+          "img": "/img/uploads/vitrine7shop_categoria-camera-e-acessorios_.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-eletrodomesticos.webp",
-          "link": "https://vitrine7shop.com.br/eletrodomesticos"
+          "link": "https://vitrine7shop.com.br/eletrodomesticos",
+          "img": "/img/uploads/vitrine7shop_categoria-eletrodomesticos.webp"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vitrine7shop_categoria-eletronicos-audio-e-video.webp",
-          "link": "https://vitrine7shop.com.br/eletronicos-audio-e-video"
+          "link": "https://vitrine7shop.com.br/eletronicos-audio-e-video",
+          "img": "/img/uploads/vitrine7shop_categoria-eletronicos-audio-e-video.webp"
         },
         {
-          "start": "",
-          "end": "",
           "link": "https://vitrine7shop.com.br/informatica-e-acessorios",
-          "img": "/img/uploads/vitrine7shop_categoria-informatica-e-acessorios.webp",
-          "alt": " "
+          "img": "/img/uploads/vitrine7shop_categoria-informatica-e-acessorios.webp"
         }
       ]
     },
