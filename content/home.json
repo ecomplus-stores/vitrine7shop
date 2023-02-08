@@ -102,7 +102,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/vitrine7shop_mini-banner-meios-de-envios.webp"
+      "img": "/img/uploads/vitrine7shop_mini-banner-meios-de-envios.webp",
+      "link": " "
     },
     {
       "type": "responsive-banner",
