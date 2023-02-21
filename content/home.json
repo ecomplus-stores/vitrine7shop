@@ -131,6 +131,10 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
