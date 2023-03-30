@@ -8,7 +8,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Confira as Novidades!",
+      "description": ""
     },
     {
       "type": "blog",
