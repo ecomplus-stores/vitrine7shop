@@ -141,7 +141,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<!-- SendPulse Simple Subscription Form -->\n<form action=\"https://login.sendpulse.com/forms/simple/u/eyJ1c2VyX2lkIjo3OTgwMzM3LCJhZGRyZXNzX2Jvb2tfaWQiOjU2MDg1MCwibGFuZyI6InB0LWJyIn0=\" method=\"post\">\n    <h4> <p>Assine nossa newsletter e fique por dentro de todas as novidades e promoções!</p> <h4>\n    <label>Nome</label>\n    <input type=\"text\" name=\"name\">\n    <label>E-mail</label>\n    <input type=\"email\" required name=\"email\">\n    <input type=\"hidden\" name=\"sender\" value=\"newsletter@vitrine7shop.com.br\">\n    <button>Assinar agora</button>\n</form>\n<!-- SendPulse Simple Subscription Form -->"
+      "html": "<!-- SendPulse Simple Subscription Form -->\n<form action=\"https://login.sendpulse.com/forms/simple/u/eyJ1c2VyX2lkIjo3OTgwMzM3LCJhZGRyZXNzX2Jvb2tfaWQiOjU2MDg1MCwibGFuZyI6InB0LWJyIn0=\" method=\"post\">\n    <h4> <p> <b> Assine nossa newsletter e fique por dentro de todas as novidades e promoções! <b> <p>  <h4>\n    <label>Nome</label>\n    <input type=\"text\" name=\"name\">\n    <label>E-mail</label>\n    <input type=\"email\" required name=\"email\">\n    <input type=\"hidden\" name=\"sender\" value=\"newsletter@vitrine7shop.com.br\">\n    <button>Assinar agora</button>\n<form>\n<!-- SendPulse Simple Subscription Form -->"
     }
   ]
 }
