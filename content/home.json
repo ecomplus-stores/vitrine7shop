@@ -142,6 +142,24 @@
     {
       "type": "custom-html",
       "html": "<body>\n<div class=\"reviews-box\">\n  <div class=\"reviews-slider\">\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/098a5e06-8488-40e5-91bd-b0624135c9cf\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/24f36361-60de-47dd-9ff0-8807bf66c2ac\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/337923f5-64d8-49a6-a7e5-184182ae8bf1\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/429ed591-bdc5-42ea-9f5f-e6609e774138\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/6cc037fd-f86b-48a8-b004-e16963b7f9c3\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/40e30dec-6d26-4e62-ac84-48de33a51de0\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/6e4f99a2-2d27-4bb9-8d68-83399785a856\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/285b67d4-1824-4a63-a089-1a7dc242c385\">\n    </div>\n    <div class=\"slide\">\n      <img src=\"blob:https://vitrine7shop.com.br/b4148ff1-f548-4519-b5a3-318d92657d95\">\n    </div>\n    <!-- Adicione mais slides aqui -->\n  </div>\n  <div class=\"slider-controls\">\n    <button class=\"prev-slide\">&lt;</button>\n    <button class=\"next-slide\">&gt;</button>\n  </div>\n</div>\n</body>\n\n<script>\n  const slider = document.querySelector('.reviews-slider');\n  const slides = slider.querySelectorAll('.slide');\n  const prevButton = document.querySelector('.prev-slide');\n  const nextButton = document.querySelector('.next-slide');\n  let currentIndex = 0;\n\n  function moveToSlide(slider, currentIndex, targetIndex) {\n    const currentSlide = slides[currentIndex];\n    const targetSlide = slides[targetIndex];\n    slider.style.transform = `translateX(-${targetSlide.offsetLeft}px)`;\n    currentSlide.classList.remove('active');\n    targetSlide.classList.add('active');\n  }\n\n  function updateButtons(currentIndex, prevButton, nextButton, slides) {\n    if (currentIndex === 0) {\n      prevButton.disabled = true;\n    } else {\n      prevButton.disabled = false;\n    }\n    if (currentIndex === slides.length - 1) {\n      nextButton.disabled = true;\n    } else {\n      nextButton.disabled = false;\n    }\n  }\n\n  function autoSlide() {\n    if (currentIndex === slides.length - 1) {\n      currentIndex = 0;\n    } else {\n      currentIndex++;\n    }\n    moveToSlide(slider, currentIndex - 1, currentIndex);\n    updateButtons(currentIndex, prevButton, nextButton, slides);\n  }\n\n  setInterval(() => {\n    autoSlide();\n  }, 10000);\n\n  prevButton.addEventListener('click', () => {\n    if (currentIndex > 0) {\n      currentIndex--;\n      moveToSlide(slider, currentIndex + 1, currentIndex);\n      updateButtons(currentIndex, prevButton, nextButton, slides);\n    }\n  });\n\n  nextButton.addEventListener('click', () => {\n    if (currentIndex < slides.length - 1) {\n      currentIndex++;\n      moveToSlide(slider, currentIndex - 1, currentIndex);\n      updateButtons(currentIndex, prevButton, nextButton, slides);\n    } else {\n      currentIndex = 0;\n      moveToSlide(slider, slides.length - 1, 0);\n      updateButtons(currentIndex, prevButton, nextButton, slides);\n    }\n  });\n\n  updateButtons(currentIndex, prevButton, nextButton, slides);\n  slides[currentIndex].classList.add('active');\n</script>\n"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mini-banner-reviews1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mini-banner-reviews8.png",
+          "alt": "    "
+        }
+      ]
     }
   ]
 }
