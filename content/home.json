@@ -93,7 +93,8 @@
         },
         {
           "img": "/img/uploads/vitrine7shop_banner-menu-tecnologias.webp",
-          "link": "https://vitrine7shop.com.br/tecnologias"
+          "link": "https://vitrine7shop.com.br/tecnologias",
+          "alt": "  "
         }
       ]
     },
