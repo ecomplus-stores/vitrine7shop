@@ -139,10 +139,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<style>\n  \n<section class=\"brands-carousel container\">\n  \n<div class=\"glide glide--ltr glide--slider glide--swipeable\" data-autoplay=\"\" data-per-view=\"6\" data-per-view-md=\"4\" data-per-view-sm=\"3\" data-per-view-xs=\"2\">\n\n<div class=\"glide__track\" data-glide-el=\"track\"><ul class=\"glide__slides brands-carousel__list\" style=\"transition: transform 400ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s; width: 2600px; transform: translate3d(-520px, 0px, 0px);\">\n\n<li class=\"glide__slide brands-carousel__item\" style=\"width: 163.333px; margin-right: 5px;\"><a href=\"/Câmeras\"><img src=\"https://vitrine7shop.com.br/img/uploads/vitrine7shop_Categoria  Câmeras alt=\"Câmeras\" class=\"img-fluid\"></a></li>\n\n<li class=\"glide__slide brands-carousel__item\" style=\"width: 163.333px; margin-right: 5px;\"><a href=\"/Câmeras\"><img src=\"https://vitrine7shop.com.br/img/uploads/vitrine7shop_Categoria  Câmeras alt=\"Câmeras\" class=\"img-fluid\"></a></li>\n\n<li class=\"glide__slide brands-carousel__item\" style=\"width: 163.333px; margin-right: 5px;\"><a href=\"/Câmeras\"><img src=\"https://vitrine7shop.com.br/img/uploads/vitrine7shop_Categoria  Câmeras alt=\"Câmeras\" class=\"img-fluid\"></a></li>\n\n<div class=\"glide__arrows glide__arrows--outer\" data-glide-el=\"controls\"><button class=\"btn glide__arrow glide__arrow--left\" data-glide-dir=\"<\" aria-label=\"Anterior\"><i class=\"i-arrow-left\"></i>\n\n</button> <button class=\"btn glide__arrow glide__arrow--right\" data-glide-dir=\">\" aria-label=\"Próximo\"><i class=\"i-arrow-right\"></i></button></div></div></div></section>\n  \n</style>"
     }
   ]
 }
