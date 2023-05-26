@@ -99,6 +99,43 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_categoria-audio-portatil-e-acessorios.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_categoria-calcados.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_categoria-cameras.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_categoria-headset.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_categoria-impressoraas.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vitrine7shop_categoria-instrumentos-musicais.webp"
+        }
+      ]
+    },
+    {
       "type": "custom-html",
       "html": "<section class=\"brands-carousel container\">\n  <div class=\"glide glide--ltr glide--slider glide--swipeable\" data-autoplay=\"\" data-per-view=\"6\" data-per-view-md=\"4\" data-per-view-sm=\"3\" data-per-view-xs=\"2\">\n    <div class=\"glide__track\" data-glide-el=\"track\">\n      <ul class=\"glide__slides brands-carousel__list\">\n        <li class=\"glide__slide brands-carousel__item\"><a href=\"/\"><img src=\"https://vitrine7shop.com.br/img/uploads/Vitrine7shop_Categoria  Câmeras.webp\" alt=\"\"></a></li>\n        \n         <li class=\"glide__slide brands-carousel__item\"><a href=\"/\"><img src=\"https://vitrine7shop.com.br/img/uploads/vitrine7shop_Categoria  Headset.webp\" alt=\"\"></a></li>\n         \n          <li class=\"glide__slide brands-carousel__item\"><a href=\"/\"><img src=\"https://vitrine7shop.com.br/img/uploads/vitrine7shop_Categoria  Calçados.webp\" alt=\"\"></a></li>\n          \n        <!-- Adicione mais itens de marca semelhantes aqui -->\n      </ul>\n    </div>\n    <div class=\"glide__arrows glide__arrows--outer\" data-glide-el=\"controls\">\n      <button class=\"btn glide__arrow glide__arrow--left\" data-glide-dir=\"<\" aria-label=\"Anterior\"><i class=\"i-arrow-left\"></i></button>\n      <button class=\"btn glide__arrow glide__arrow--right\" data-glide-dir=\">\" aria-label=\"Próximo\"><i class=\"i-arrow-right\"></i></button>\n    </div>\n  </div>\n</section>"
     },
