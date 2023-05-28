@@ -92,6 +92,13 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "autoplay": 0,
+      "sort": null
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/vitrine7shop_mini-banner-cartao-de-credito.webp",
       "link": "   https://vitrine7shop.com.br/pages/formas-de-pagamento"
@@ -111,13 +118,6 @@
       "img": "/img/uploads/vitrine7shop_mini-banner-repositivo-google-reviews.webp",
       "alt": "    ",
       "link": "   "
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 0,
-      "sort": null
     },
     {
       "type": "responsive-banner",
