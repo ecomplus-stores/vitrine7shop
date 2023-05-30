@@ -99,7 +99,8 @@
       "type": "brands-carousel",
       "limit": 18,
       "offset": 0,
-      "sort": null
+      "sort": null,
+      "autoplay": 5000
     },
     {
       "type": "responsive-banner",
