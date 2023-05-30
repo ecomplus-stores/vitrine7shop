@@ -92,17 +92,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Principais Categorias"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 18,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/vitrine7shop_mini-banner-cartao-de-credito.webp",
       "link": "   https://vitrine7shop.com.br/pages/formas-de-pagamento"
@@ -127,6 +116,17 @@
       "type": "responsive-banner",
       "img": "/img/uploads/vitrine7shop_mini-banner-suporte.webp",
       "link": "https://wa.me/message/F2HZMKG5I33ZH1"
+    },
+    {
+      "type": "page-title",
+      "title": "Principais Categorias"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 18,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 5000
     },
     {
       "type": "page-title",
