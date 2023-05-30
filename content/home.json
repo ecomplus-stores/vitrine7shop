@@ -92,6 +92,10 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Principais Categorias"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/vitrine7shop_mini-banner-cartao-de-credito.webp",
       "link": "   https://vitrine7shop.com.br/pages/formas-de-pagamento"
