@@ -122,6 +122,11 @@
       "title": "Principais Categorias"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "page-title",
       "title": "                                              Confira nosso Blog!",
       "description": ""
