@@ -123,8 +123,10 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "limit": 18,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 5000
     },
     {
       "type": "page-title",
