@@ -136,22 +136,22 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/vitrine7shop_conexao-segura.webp",
+      "src": "",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=vitrine7shop.com.br",
       "alt": "  "
     },
     {
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=vitrine7shop.com.br       ",
-      "src": "/img/uploads/vitrine7shop_google-site-seguro.webp",
+      "src": "",
       "alt": "      "
     },
     {
-      "src": "/img/uploads/vitrine7shop_norton-secure.webp",
+      "src": "",
       "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fvitrine7shop.com.br%2F ",
       "alt": "  "
     },
     {
-      "src": "/img/uploads/vitrine7shop_lets-encrypt-secured.webp",
+      "src": "",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=vitrine7shop.com.br"
     }
   ],
