@@ -9,7 +9,7 @@
     "pet-shop",
     "tecnologias"
   ],
-  "alphabetical_order": false,
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
