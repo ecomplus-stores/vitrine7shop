@@ -1,15 +1,6 @@
 {
-  "sort_categories": [
-    "automotivos",
-    "beleza-e-saude",
-    "casa-e-moveis",
-    "energia-solar",
-    "entretenimentos",
-    "modas",
-    "pet-shop",
-    "tecnologias"
-  ],
-  "alphabetical_order": false,
+  "sort_categories": [],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
