@@ -117,13 +117,6 @@
       "title": "Principais Categorias"
     },
     {
-      "type": "brands-carousel",
-      "limit": 18,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
-    },
-    {
       "type": "page-title",
       "title": "                                              Confira nosso Blog!",
       "description": ""
