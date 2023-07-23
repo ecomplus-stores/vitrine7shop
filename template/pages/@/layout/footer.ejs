@@ -66,8 +66,7 @@ const themeCustom = _.settings.theme.custom || ''
           </ul>
     
         <% if (footer.contacts.socials) { %>
-        <div class="footer__title">
-            Siga-nos nas Redes
+      
            <p class="footer__social">
             <%- await include('@/layout/inc/networks', { _, contacts }) %>
             </p>
