@@ -97,6 +97,85 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "link": "https://vitrine7shop.com.br/beleza-e-cuidado-pessoal ",
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-beleza-e-cuidado-pessoal.webp",
+          "mobile_img": null
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categotia-brinquedos-e-hobbies.webp",
+          "link": "https://vitrine7shop.com.br/brinquedos-e-hobbies "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-bebe-e-maternidade.webp",
+          "link": "https://vitrine7shop.com.br/bebe-e-maternidade      "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-casa-moveis-e-decoracao.webp",
+          "link": "https://vitrine7shop.com.br/casa-e-decoracao   "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-caategoria-calcados-roupas-e-bolsas.webp",
+          "link": "https://vitrine7shop.com.br/calcados-roupas-e-bolsas "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-saude-e-bem-estar.webp",
+          "link": "https://vitrine7shop.com.br/saude-e-bem-estar "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-escritorio-e-papelaria.webp",
+          "link": "https://vitrine7shop.com.br/escritorio-e-papelaria     "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-ferramentas-e-seguranca.webp",
+          "link": "https://vitrine7shop.com.br/ferramentas-e-seguranca     "
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-esporte-fitness.webp",
+          "link": "https://vitrine7shop.com.br/esporte-e-fitness     "
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-cameras-e-acessorios.webp",
+          "link": "https://vitrine7shop.com.br/camera-e-acessorios"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categorias-celulaares-e-comunicacao.webp",
+          "link": "https://vitrine7shop.com.br/celulares-e-comunicacao"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-eletrodomesticos.webp",
+          "link": "https://vitrine7shop.com.br/eletrodomesticos"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-eletronicos-audio-e-video.webp",
+          "link": "https://vitrine7shop.com.br/eletronicos-audio-e-video"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-games-e-consoles.webp",
+          "link": "https://vitrine7shop.com.br/games-e-consoles"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-instrumentos-musicais.webp",
+          "link": "https://vitrine7shop.com.br/instrumentos-musicais"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-joias-e-relogios.webp",
+          "link": "https://vitrine7shop.com.br/joias-e-relogios"
+        },
+        {
+          "img": "/img/uploads/vitrine7shop_mini-banner-menu-categoria-informatica-e-acessorios.webp",
+          "link": "https://vitrine7shop.com.br/informatica-e-acessorios"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "                                              Confira nosso Blog!",
       "description": ""
