@@ -58,18 +58,18 @@
       "banners": [
         {
           "link": "https://vitrine7shop.com.br/automotivos",
-          "img": "/img/uploads/vitrine7shop_banner-menu-auomotivo.webp"
+          "img": "/img/uploads/vitrine7shop_banner-categoria-menu-auomotivo.webp"
         },
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-beleza-e-saude.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-beleza-e-saude-cdr.webp",
           "link": "https://vitrine7shop.com.br/beleza-e-saude"
         },
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-casa-e-moveis.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-casa-e-moveis-cdr.webp",
           "link": "https://vitrine7shop.com.br/casa-e-moveis"
         },
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-energia-solar.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-energia-solar.webp",
           "link": "https://vitrine7shop.com.br/energia-solar"
         }
       ]
@@ -78,19 +78,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-entretenimentos.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-entretenimentos-cdr.webp",
           "link": "https://vitrine7shop.com.br/entretenimentos"
         },
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-modas.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-modas-cdr.webp",
           "link": "https://vitrine7shop.com.br/modas"
         },
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-pet-shop.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-pet-shop.webp",
           "link": "https://vitrine7shop.com.br/pet-shop"
         },
         {
-          "img": "/img/uploads/vitrine7shop_banner-menu-tecnologias.webp",
+          "img": "/img/uploads/vitrine7shop_banner-menu-categoria-tecnologias_-cdr.webp",
           "link": "https://vitrine7shop.com.br/tecnologias",
           "alt": "  "
         }
