@@ -105,11 +105,6 @@
       "title": "Nossos Parceiros"
     },
     {
-      "type": "brands-carousel",
-      "limit": 48,
-      "offset": 0
-    },
-    {
       "type": "page-title",
       "title": "                                              Confira nosso Blog!",
       "description": ""
