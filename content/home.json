@@ -102,11 +102,11 @@
     },
     {
       "type": "page-title",
-      "title": "Navegue por Categorias"
+      "title": "Nossos Parceiros"
     },
     {
       "type": "brands-carousel",
-      "limit": 16,
+      "limit": 48,
       "offset": 0
     },
     {
@@ -117,15 +117,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "Nossos Parceiros"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 48,
-      "offset": 0
     }
   ]
 }
