@@ -106,9 +106,9 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 48,
+      "limit": 30,
       "offset": 0,
-      "sort": null
+      "sort": "name"
     },
     {
       "type": "page-title",
