@@ -54,10 +54,6 @@
       "enabled": true
     },
     {
-      "type": "page-title",
-      "title": "Principais Categorias"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
