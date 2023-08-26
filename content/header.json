@@ -6,42 +6,12 @@
     "color": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Como Comprar",
-        "link": "https://vitrine7shop.com.br/pages/como-comprar"
-      },
-      {
-        "title": "Blog",
-        "link": "https://vitrine7shop.com.br/blog"
-      },
-      {
-        "title": "Entrar | Cadastrar",
-        "link": "https://vitrine7shop.com.br/app/#/account"
-      },
-      {
-        "title": "Meus Pedidos",
-        "link": "https://vitrine7shop.com.br/app/#/orders"
-      },
-      {
-        "title": "Rastreamento",
-        "link": "https://www.melhorrastreio.com.br/"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/automotivos?Automotivos",
-      "/beleza-e-saude?Beleza e Saúde",
-      "/casa-e-moveis?Casa e Móveis",
-      "/energia-solar?Energia Solar",
-      "/entretenimentos?Entretenimentos",
-      "/moda-e-acessorios?Moda e Acessórios",
-      "/pet-shop?Pet Shop",
-      "/tecnologias?Tecnologias"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": true
   },
