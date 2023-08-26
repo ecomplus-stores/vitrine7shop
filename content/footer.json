@@ -11,108 +11,35 @@
   "links_2": {
     "list_categories": false,
     "title": "Categorias",
-    "list": [
-      {
-        "text": "Automotivos",
-        "url": "https://vitrine7shop.com.br/automotivos"
-      },
-      {
-        "url": "https://vitrine7shop.com.br/beleza-e-saude",
-        "text": "Beleza e Saúde"
-      },
-      {
-        "url": "https://vitrine7shop.com.br/casa-e-moveis",
-        "text": "Casa e Móveis"
-      },
-      {
-        "url": "https://vitrine7shop.com.br/energia-solar",
-        "text": "Energia Solar"
-      },
-      {
-        "text": "Eletrodomésticos ",
-        "url": "https://vitrine7shop.com.br/eletrodomesticos"
-      },
-      {
-        "text": "Eletrônicos, Áudio e Vídeo  ",
-        "url": "https://vitrine7shop.com.br/eletronicos-audio-e-video"
-      },
-      {
-        "url": "https://vitrine7shop.com.br/entretenimentos",
-        "text": "Entretenimento"
-      },
-      {
-        "text": "Informática e Acessórios",
-        "url": "https://vitrine7shop.com.br/informatica-e-acessorios"
-      },
-      {
-        "url": "https://vitrine7shop.com.br/moda-e-acessorios",
-        "text": "Moda e Acessórios"
-      },
-      {
-        "text": "Pet Shop",
-        "url": "https://vitrine7shop.com.br/pet-shop"
-      },
-      {
-        "url": "https://vitrine7shop.com.br/tecnologias",
-        "text": "Tecnologias  "
-      },
-      {
-        "url": "https://vitrine7shop.com.br/combos-e-kits",
-        "text": "Combos e Kits"
-      },
-      {
-        "url": "  https://vitrine7shop.com.br/conjuntos-e-packs",
-        "text": "Conjuntos e Packs "
-      },
-      {
-        "url": "https://vitrine7shop.com.br/ofertas-e-promocoes",
-        "text": "Ofertas e Promoções"
-      }
-    ]
+    "list": []
   },
   "contacts": {
-    "title": "Fale Conosco",
+    "title": "",
     "phone_wpp": true,
     "socials": true,
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/vitrine7shop_conexao-segura.webp",
-      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=vitrine7shop.com.br   ",
-      "alt": "         "
-    },
-    {
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=vitrine7shop.com.br",
-      "src": "/img/uploads/vitrine7shop_google-site-seguro.webp",
-      "alt": "      "
-    },
-    {
-      "src": "/img/uploads/vitrine7shop_norton-secured.webp",
-      "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fvitrine7shop.com.br%2F ",
-      "alt": "      "
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
-    "visa": true,
-    "boleto": true,
+    "visa": false,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
-    "hipercard": true,
+    "elo": false,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": true,
-    "paypal": true,
+    "mastercard": false,
+    "paypal": false,
     "citibank": false,
-    "hiper": true,
-    "diners": true,
-    "mais": true,
-    "pix": true,
-    "amex": true,
+    "hiper": false,
+    "diners": false,
+    "mais": false,
+    "pix": false,
+    "amex": false,
     "itau": false
   },
   "credits": ""
