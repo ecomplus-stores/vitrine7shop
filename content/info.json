@@ -1,22 +1,22 @@
 {
   "shipping": {
-    "show": true,
-    "text": "Entrega garantida para todo o Brasil!",
-    "link": "https://vitrine7shop.com.br/pages/entrega"
+    "show": false,
+    "text": "",
+    "link": ""
   },
   "installments": {
-    "show": true,
-    "text": "Parcele suas Compras em 12X sem juros!",
-    "link": "https://vitrine7shop.com.br/pages/formas-de-pagamento"
+    "show": false,
+    "text": "",
+    "link": ""
   },
   "exchange": {
-    "show": true,
-    "text": "Troca e Devolução gratuitas!",
-    "link": "https://vitrine7shop.com.br/pages/trocas"
+    "show": false,
+    "text": "",
+    "link": ""
   },
   "promo": {
-    "show": true,
-    "text": "Diferentes promoções ao longo do ano!",
-    "link": "https://vitrine7shop.com.br/ofertas-e-promocoes"
+    "show": false,
+    "text": "",
+    "link": ""
   }
 }
